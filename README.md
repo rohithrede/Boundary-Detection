@@ -24,7 +24,7 @@ Go to main.py file which is in root directory
 Go on running the cells in the mentioned order.
 
 # Step 3:
-Input an image and you will get the desired output with boundarys detected.
+Input an image and you will get the desired output with boundarys detected.( An out.jpg file will be generated where the output will be there afer you input an image and running it.)
 
 # Note:
 There is a folder named "Output Images" where some of the output images are placed. Do refer them for better understanding.
